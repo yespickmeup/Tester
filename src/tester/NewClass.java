@@ -17,7 +17,7 @@ public class NewClass {
         System.out.println("commit accepted!");
         System.out.println("Check Revision!");
         System.out.println("to development");
-        System.out.println("asdadsad");
+        System.out.println("qweqwe");
     }
     
 }
